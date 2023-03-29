@@ -1,0 +1,1 @@
+print('Lexa xui sosi')
